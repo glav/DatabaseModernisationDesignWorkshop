@@ -18,7 +18,10 @@ They also mentioned that they have some reports that are run directly against th
 Tailspin Toys is excited to learn more about how migrating to the cloud can help them improve their overall processes, as well as address the concerns and issues they have with their on-premises setup. They are looking for a proof-of-concept (PoC) for migrating their gaming VMs and databases into the cloud. Their end goal is to migrate their whole service to the cloud, so they would also like to understand better what their overall architecture might look after migrating to the cloud.
 
 To assist you in better understanding their current environment, Tailspin Toys has provided the following architecture diagram of their on-premises gaming services implementation.
- 
+
+![db-mod-on-prem-architecture](https://github.com/glav/DatabaseModernisationDesignWorkshop/blob/main/db-mod-on-prem-architecture.png)
+
+
 # Customer needs
 1.	We want to assess the current environment and migrate all our gaming services infrastructure into the cloud with Azure Data Migration Service (DMS), using PaaS services where possible. We would like to know if this can be accomplished in three months to avoid renewing our equipment rental contract.
 2.	In addition to our gaming services, we would like to migrate our existing data warehouse to Azure to take advantage of the ability to scale out along with some new SQL features available there. As part of this request, we would like to know more about:
